@@ -16,13 +16,13 @@ My current interests are writing backend and frontend for full-stack web apps an
 My portfolio is written up in detail on my portfolio website:
 
 <p align="center">
-<a href="https://markwiltberger.github.io" target="_blank">
+<a href="https://markwiltberger.github.io">
     <img src="portfolio-webpage-visual-bookmark.jpeg" width="650" alt="portfolio webpage visual bookmark">
 </a>
 </p>
 
 <p align="center">
-<a href="https://markwiltberger.github.io" target="_blank"><strong>markwiltberger.github.io</strong></a>
+<a href="https://markwiltberger.github.io"><strong>markwiltberger.github.io</strong></a>
 </p>
 
 <br>
@@ -35,8 +35,8 @@ My portfolio is written up in detail on my portfolio website:
 
 ### Profile and Contact Information:
 
-- **My portfolio website:** <a href="https://markwiltberger.github.io" target="_blank">markwiltberger.github.io</a>
-- **My LinkedIn Profile:** <a href="https://www.linkedin.com/in/markwiltberger/" target="_blank">Mark Wiltberger on LinkedIn</a>
+- **My portfolio website:** <a href="https://markwiltberger.github.io">markwiltberger.github.io</a>
+- **My LinkedIn Profile:** <a href="https://www.linkedin.com/in/markwiltberger/">Mark Wiltberger on LinkedIn</a>
 - **email**: mark.wiltberger@gmail.com
 - **LinkedIn**: MarkWiltberger
 
