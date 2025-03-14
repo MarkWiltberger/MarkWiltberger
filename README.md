@@ -15,9 +15,12 @@ My current interests are writing backend and frontend for full-stack web apps an
 
 My portfolio is written up in detail on my portfolio website:
 
+<div style="width: 550; margin: 0 auto;">
 <a href="https://markwiltberger.github.io" style="display: block; text-align: center; font-weight: bold;">
     <img src="portfolio-webpage-visual-bookmark.jpeg" width="550" alt="portfolio webpage visual bookmark">
-</a><br>
+</a>
+</div>
+<br>
 <a href="https://markwiltberger.github.io" style="display: block; text-align: center; font-weight: bold;">markwiltberger.github.io</a>
 
 <br>
